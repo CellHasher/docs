@@ -31,7 +31,7 @@ Uninstalling system apps is greyed-out for safety as removing the wrong one coul
 We hope to soon add file/app icons and names for easier identification.
 :::
 
-<img src="/img/control-tabs/package-manager/installed.png" alt="" />
+<img src="/docs/img/control-tabs/package-manager/installed.png" alt="" />
 
 ## Package Lists
 
@@ -41,7 +41,7 @@ Each list can contain any number of package names, and can be exported or import
 
 This makes it easy to build and reuse bloat-removal profiles or create pre-deployment cleanup templates for new phone batches.
 
-<img src="/img/control-tabs/package-manager/package-lists.png" alt="" />
+<img src="/docs/img/control-tabs/package-manager/package-lists.png" alt="" />
 
 ## Bulk Actions
 
@@ -52,6 +52,6 @@ The Bulk Actions tab shows connected devices, action type, and confirmation summ
 
 You will recieve a confirmation dialog which lists exactly which devices and which packages are affected before you proceed.
 
-<img src="/img/control-tabs/package-manager/bulk-actions.png" alt="" />
+<img src="/docs/img/control-tabs/package-manager/bulk-actions.png" alt="" />
 
-<div align="center"><figure><img src="/img/control-tabs/package-manager/confirm-dialog.png" alt="" width="563" /><figcaption><p align="center">Example confirmation window: shows selected devices, total packages, and operations before uninstall begins.</p></figcaption></figure></div>
+<div align="center"><figure><img src="/docs/img/control-tabs/package-manager/confirm-dialog.png" alt="" width="563" /><figcaption><p align="center">Example confirmation window: shows selected devices, total packages, and operations before uninstall begins.</p></figcaption></figure></div>

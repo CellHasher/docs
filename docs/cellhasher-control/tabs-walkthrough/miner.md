@@ -7,7 +7,7 @@ description: >-
 
 # Miner
 
-<figure><img src="/img/control-tabs/miner/overview.png" alt="" /><figcaption><p>View of the Miner tab</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/miner/overview.png" alt="" /><figcaption><p>View of the Miner tab</p></figcaption></figure>
 
 ## Overview of the Miner Dashboard
 
@@ -25,13 +25,13 @@ The **Assignments tab** shows connected devices ready to be assigned to bulk min
 
 Note: Greyed out bulksheets as shown in the image above simply mean the device is not connected to the manager software.
 
-<img src="/img/control-tabs/miner/assignments.png" alt="" />
+<img src="/docs/img/control-tabs/miner/assignments.png" alt="" />
 
 ## Flightsheets
 
 A **Flightsheet** defines how your miner runs — including algorithm, pool URL, wallet address, and thread count.
 
-<div><img src="/img/control-tabs/miner/flightsheet-example-1.png" alt="" /> <img src="/img/control-tabs/miner/flightsheet-example-2.png" alt="" /></div>
+<div><img src="/docs/img/control-tabs/miner/flightsheet-example-1.png" alt="" /> <img src="/docs/img/control-tabs/miner/flightsheet-example-2.png" alt="" /></div>
 
 > Example of creating a **Solo BTC Flightsheet**, defining miner type, pool, wallet, and other configuration details.
 
@@ -40,15 +40,15 @@ A **Flightsheet** defines how your miner runs — including algorithm, pool URL,
 Each **Bulksheet** is a collection of devices running the same Flightsheet.\
 You can create multiple bulksheets for different coins or miner types.
 
-<img src="/img/control-tabs/miner/bulksheet-create.png" alt="" />
+<img src="/docs/img/control-tabs/miner/bulksheet-create.png" alt="" />
 
 > All available devices are listed at the top. You can drag and drop devices into a new Bulksheet or hold Ctrl/Cmd to duplicate them across multiple sheets.
 
-<img src="/img/control-tabs/miner/assignments.png" alt="" />
+<img src="/docs/img/control-tabs/miner/assignments.png" alt="" />
 
 > Example of configured bulksheets for BTC, Verus, Virel, and more — each containing 20 devices.
 
-<img src="/img/control-tabs/miner/bulksheet-configured.png" alt="" />
+<img src="/docs/img/control-tabs/miner/bulksheet-configured.png" alt="" />
 
 > Use the 3-dot menu to install miners, install Termux, uninstall, or duplicate bulksheets. You can install miners on all 20 devices simultaneously.
 
@@ -62,11 +62,11 @@ Each miner has **Install**, **Run**, **Stop**, and **Uninstall** scripts, typica
 Our Pre-Made Miner Types Require you to have python path setup in the Settings Page
 :::
 
-<figure><img src="/img/control-tabs/miner/ch-miners-import.png" alt="" /><figcaption><p>Use <strong>CH Miners</strong> to quickly import ready-to-use miner templates from CellHasher’s GitHub.</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/miner/ch-miners-import.png" alt="" /><figcaption><p>Use <strong>CH Miners</strong> to quickly import ready-to-use miner templates from CellHasher’s GitHub.</p></figcaption></figure>
 
-<figure><img src="/img/control-tabs/miner/type-edit-bitcoin.png" alt="" /><figcaption><p>Example: Editing a Bitcoin miner type. You can customize commands, add dependencies, and manage install logic. Note, you do not need lines 4-8 in the install script, but do want them in the (Run Script) if you make your own script, this communicates with our environment flight sheets.</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/miner/type-edit-bitcoin.png" alt="" /><figcaption><p>Example: Editing a Bitcoin miner type. You can customize commands, add dependencies, and manage install logic. Note, you do not need lines 4-8 in the install script, but do want them in the (Run Script) if you make your own script, this communicates with our environment flight sheets.</p></figcaption></figure>
 
-<figure><img src="/img/control-tabs/miner/type-create-new.png" alt="" /><figcaption><p>Creating a new Miner Type from scratch — includes a Python script template ready for custom miner logic.</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/miner/type-create-new.png" alt="" /><figcaption><p>Creating a new Miner Type from scratch — includes a Python script template ready for custom miner logic.</p></figcaption></figure>
 
 ### Step-by-Step: Begin Mining
 
@@ -108,7 +108,7 @@ custom_flags = os.environ.get("custom_flags", "")
 These are automatically injected from your **Flightsheets** whenever you install or run miners, allowing fully dynamic setups without modifying your code.\
 The install script usually prepares Termux and downloads dependencies, while the run script executes your miner with the provided pool, wallet, and thread count.
 
-<img src="/img/control-tabs/miner/type-env-example.png" alt="" />
+<img src="/docs/img/control-tabs/miner/type-env-example.png" alt="" />
 
 > Example: ADVC miner type showing environment-driven install logic in Python.
 
@@ -124,6 +124,6 @@ The install script usually prepares Termux and downloads dependencies, while the
 
 The Troubleshoot Tab includes a “Try Our Repair Tool” button for automated fixes. Sometimes, when installing miners on multiple devices, one or two may fail due to mirror errors or slow internet. (Troubleshoot Button is located at the top of the Miner page.) Use the **Automated Repair Tool** instead of reinstalling manually.
 
-<img src="/img/control-tabs/miner/troubleshoot-repair-button.png" alt="" />
+<img src="/docs/img/control-tabs/miner/troubleshoot-repair-button.png" alt="" />
 
-<img src="/img/control-tabs/miner/troubleshoot-repair-tool.png" alt="" />
+<img src="/docs/img/control-tabs/miner/troubleshoot-repair-tool.png" alt="" />

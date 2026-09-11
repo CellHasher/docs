@@ -49,7 +49,7 @@ Do not use this feature if your devices are currently connected wirelessly to AD
 
 If your devices do get disconnected, refer to [Connection Modes: Wi-Fi and Ethernet](../../additional-docs/connection-modes-wi-fi-and-ethernet.md) to reconnect.
 
-<figure><img src="/img/control-tabs/network/wifi-status.png" alt="" /><figcaption><p>You will see "WIFI" status if any devices are connected to Cellhasher Control over network.</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/network/wifi-status.png" alt="" /><figcaption><p>You will see "WIFI" status if any devices are connected to Cellhasher Control over network.</p></figcaption></figure>
 
 ### Troubleshooting - Device Not Connecting
 
@@ -65,4 +65,4 @@ If devices fail to connect to Wi-Fi, Android’s security settings may be blocki
 2. Scroll down and locate Verify apps over USB.
 3. Turn this off. This allows the helper APK to install correctly.
 
-<div align="left"><img src="/img/control-tabs/network/verify-apps-usb.png" alt="" width="237" /></div>
+<div align="left"><img src="/docs/img/control-tabs/network/verify-apps-usb.png" alt="" width="237" /></div>

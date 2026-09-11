@@ -20,7 +20,7 @@ For On-The-Go (OTG) PCB's and serial bus boards, here is an available source for
 
 Fastboot devices or ADB not working? Potentially driver issue? Try this bat script by either downloading and running, or running the code below to auto install drivers.
 
-<a href="/files/adbinstaller.bat.zip">Download: adbinstaller.bat.zip</a>
+<a href="/docs/files/adbinstaller.bat.zip">Download: adbinstaller.bat.zip</a>
 
 ```batch
 @echo off

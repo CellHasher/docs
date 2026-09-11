@@ -7,7 +7,7 @@ description: >-
 
 # Welcome to Cellhasher
 
-<div align="center"><img src="/img/brand/home-hero.png" alt="" width="563" /></div>
+<div align="center"><img src="/docs/img/brand/home-hero.png" alt="" width="563" /></div>
 
 ## **What is a Cellhasher?**
 

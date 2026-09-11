@@ -7,7 +7,7 @@ description: >-
 
 # Devices
 
-<img src="/img/control-tabs/devices/overview.png" alt="" />
+<img src="/docs/img/control-tabs/devices/overview.png" alt="" />
 
 ### What You See Here
 

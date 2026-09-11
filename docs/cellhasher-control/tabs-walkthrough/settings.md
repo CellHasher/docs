@@ -11,7 +11,7 @@ description: >-
 
 Before using most features in Cellhasher Control, your system paths must be set correctly. These paths tell the software where to find required executables like ADB, Fastboot, and Scrcpy.
 
-<img src="/img/control-tabs/settings/system-paths.png" alt="" />
+<img src="/docs/img/control-tabs/settings/system-paths.png" alt="" />
 
 ### Download and Set Paths
 
@@ -51,7 +51,7 @@ This is where you manage the key files that allow ADB to control your phones. Ea
 Cellhasher purcahses with phones pre-installed come with ADB Authoization Keys. Import the key files here.
 :::
 
-<div align="left"><img src="/img/control-tabs/settings/adb-keys.png" alt="" width="274" /></div>
+<div align="left"><img src="/docs/img/control-tabs/settings/adb-keys.png" alt="" width="274" /></div>
 
 Check [Enabling USB (and Wireless) Debugging](../../additional-docs/enabling-usb-and-wireless-debugging.md) for more information. Your device may already be included in the current key set if you do not see an authorization prompt.
 

@@ -7,7 +7,7 @@ description: >-
 
 # Index
 
-<figure><img src="/img/control-tabs/index/overview.png" alt="" /><figcaption><p>View of the Index tab</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/index/overview.png" alt="" /><figcaption><p>View of the Index tab</p></figcaption></figure>
 
 ### Indexes
 
@@ -41,7 +41,7 @@ Some commands are tagged as Advanced / Risky. These can alter system partitions,
 Commands marked as “Advanced / Risky” should only be used by experienced users or after testing on non-critical devices.
 :::
 
-<img src="/img/control-tabs/index/command-library.png" alt="" />
+<img src="/docs/img/control-tabs/index/command-library.png" alt="" />
 
 ### Actions & Shortcuts
 
@@ -52,10 +52,10 @@ In the Actions column, you can:
 * Add it using "+" directly to your Terminal Page ADB Index
 * Search a command in your browser
 
-<div align="left"><img src="/img/control-tabs/index/actions-menu.png" alt="" width="167" /></div>
+<div align="left"><img src="/docs/img/control-tabs/index/actions-menu.png" alt="" width="167" /></div>
 
 ### Add Command to Page
 
 You can easily insert any command from the Index into the Terminal Command Index using the Add Command prompt. This makes it possible to build your own quick-action menu for repetitive or complex workflows.
 
-<figure><img src="/img/control-tabs/index/add-command.png" alt="" /><figcaption><p>Example: Adding a <code>shell reboot</code> command directly to your Terminal index.</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/index/add-command.png" alt="" /><figcaption><p>Example: Adding a <code>shell reboot</code> command directly to your Terminal index.</p></figcaption></figure>

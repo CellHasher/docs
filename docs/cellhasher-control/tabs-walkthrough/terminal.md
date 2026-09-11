@@ -7,7 +7,7 @@ description: >-
 
 # Terminal
 
-<figure><img src="/img/control-tabs/terminal/overview.png" alt="" /><figcaption><p>The ADB Terminal view showing multi-device command execution with categorized command index on the right.</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/terminal/overview.png" alt="" /><figcaption><p>The ADB Terminal view showing multi-device command execution with categorized command index on the right.</p></figcaption></figure>
 
 ### ADB & Fastboot Modes
 
@@ -30,7 +30,7 @@ You can expand sections such as:
 
 You can add your own custom commands or sections for quick reuse, or import them directly from the Index Page.
 
-<div><img src="/img/control-tabs/terminal/command-index-collapsed.png" alt="" width="276" /> <img src="/img/control-tabs/terminal/command-index-expanded.png" alt="" width="407" /></div>
+<div><img src="/docs/img/control-tabs/terminal/command-index-collapsed.png" alt="" width="276" /> <img src="/docs/img/control-tabs/terminal/command-index-expanded.png" alt="" width="407" /></div>
 
 ### Running Commands
 

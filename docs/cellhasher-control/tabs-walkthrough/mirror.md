@@ -6,7 +6,7 @@ description: >-
 
 # Mirror
 
-<figure><img src="/img/control-tabs/mirror/overview.png" alt="" /><figcaption><p>View of Screen Mirroring tab</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/mirror/overview.png" alt="" /><figcaption><p>View of Screen Mirroring tab</p></figcaption></figure>
 
 ### Interface Overview
 

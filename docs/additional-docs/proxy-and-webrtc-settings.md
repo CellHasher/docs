@@ -74,7 +74,7 @@ Cut the BMS cable, expose the trace, and carefully solder the wires directly. Wr
    2. Soldering iron & solder wire
    3. Multimeter
 
-<div><img src="/img/chassis-setup/tool-kit-3.png" alt="" /> <img src="/img/chassis-setup/tool-kit-1.png" alt="" /> <img src="/img/chassis-setup/tool-kit-2.png" alt="" /></div>
+<div><img src="/docs/img/chassis-setup/tool-kit-3.png" alt="" /> <img src="/docs/img/chassis-setup/tool-kit-1.png" alt="" /> <img src="/docs/img/chassis-setup/tool-kit-2.png" alt="" /></div>
 
 ## Step 2: Prepare the Phones
 
@@ -109,7 +109,7 @@ Lithium-ion batteries can explode if punctured. Be very careful and perform your
 
 3. **Dispose or store the battery properly**
 
-<div align="left"><img src="/img/chassis-setup/phones-disassembled.jpg" alt="" width="375" /></div>
+<div align="left"><img src="/docs/img/chassis-setup/phones-disassembled.jpg" alt="" width="375" /></div>
 
 ## Step 4: Adjust Your Cellhasher's Voltage
 
@@ -132,7 +132,7 @@ Cellhasher outputs the same voltage to all 20 phone ports.
        * Remove the power supply from the Cellhasher unit. 
        * Only onescrew is holding the lid on the PSU. There are two additional screws required for removing the PSU board from it's shell completely.
 
-       <div align="left"><figure><img src="/img/chassis-setup/psu-screw-lid.avif" alt="" width="563" /><figcaption><p>Screw holding lid</p></figcaption></figure></div>
+       <div align="left"><figure><img src="/docs/img/chassis-setup/psu-screw-lid.avif" alt="" width="563" /><figcaption><p>Screw holding lid</p></figcaption></figure></div>
    3. **Read voltage and adjust potentiometer**
       * Double check your input voltage, then power on your Cellhasher. Continue by using one of the two methods to read the output voltage in order to be able to adjust it accordingly. If you have a Wi-Fi + Ethernet Cellhasher, you will use the mulitmerter method.
         * **Multimeter**: Place your positive and negative pins in on the outputting side of the power supply. This location will read **0.25V** than what the phone will receive. For example, if you read 5.07V here, your phone will receive 4.82V.
@@ -155,9 +155,9 @@ Cellhasher units come with BMS cables that attach to certain phones without addi
 
 Use the entire battery circuit when creating the cable, soldering the positive and negative wires correctly. Wrap with electrical tape or heat shrink.
 
-<div><figure><img src="/img/chassis-setup/bms-method-2-full-circuit.avif" alt="" /><figcaption><p>Method 2</p></figcaption></figure> <figure><img src="/img/chassis-setup/bms-method-2-wired.png" alt="" /><figcaption><p>Method 2</p></figcaption></figure></div>
+<div><figure><img src="/docs/img/chassis-setup/bms-method-2-full-circuit.avif" alt="" /><figcaption><p>Method 2</p></figcaption></figure> <figure><img src="/docs/img/chassis-setup/bms-method-2-wired.png" alt="" /><figcaption><p>Method 2</p></figcaption></figure></div>
 
-<div><figure><img src="/img/chassis-setup/battery-ribbon-remove-1.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/img/chassis-setup/battery-ribbon-remove-2.avif" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/img/chassis-setup/battery-ribbon-remove-3.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure></div>
+<div><figure><img src="/docs/img/chassis-setup/battery-ribbon-remove-1.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/docs/img/chassis-setup/battery-ribbon-remove-2.avif" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/docs/img/chassis-setup/battery-ribbon-remove-3.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure></div>
 
 ### Method 3:
 
@@ -165,9 +165,9 @@ Use the entire battery circuit when creating the cable, soldering the positive a
 
 Cut the BMS cable, expose the trace, and carefully solder the wires directly. Wrap the cable securely to avoid shorts.
 
-<figure><img src="/img/chassis-setup/bms-method-3.png" alt="" /><figcaption><p>Method 3</p></figcaption></figure>
+<figure><img src="/docs/img/chassis-setup/bms-method-3.png" alt="" /><figcaption><p>Method 3</p></figcaption></figure>
 
-<div><figure><img src="/img/chassis-setup/battery-ribbon-remove-1.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/img/chassis-setup/battery-ribbon-remove-2.avif" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/img/chassis-setup/battery-ribbon-remove-3.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure></div>
+<div><figure><img src="/docs/img/chassis-setup/battery-ribbon-remove-1.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/docs/img/chassis-setup/battery-ribbon-remove-2.avif" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure> <figure><img src="/docs/img/chassis-setup/battery-ribbon-remove-3.png" alt="" /><figcaption><p>Removing ribbon for method 2 & 3</p></figcaption></figure></div>
 
 * **Test and Troubleshoot**
   * Ensure the device powers on after connecting the BMS cable. If issues arise, check solder connections, voltage settings, and wire orientation.
@@ -177,14 +177,14 @@ Cut the BMS cable, expose the trace, and carefully solder the wires directly. Wr
 * Use a snipping tool to cut majority of the backplate off. Leave enough to secure the battery connection point using a few screws. 
 * Gently fold, flatten, and tape the BMS cable to secure it.
 
-<div align="left"><img src="/img/chassis-setup/bms-cable-taped.jpeg" alt="" width="375" /></div>
+<div align="left"><img src="/docs/img/chassis-setup/bms-cable-taped.jpeg" alt="" width="375" /></div>
 
 ## Step 7: Insert Phones into Chassis
 
 * Using the USB stubs provided, connect the phones and their BMS cable into each slot on the motherboard.
 * Once complete, power on.
 
-<div align="left"><img src="/img/chassis-setup/phones-installed-chassis.jpeg" alt="" width="375" /></div>
+<div align="left"><img src="/docs/img/chassis-setup/phones-installed-chassis.jpeg" alt="" width="375" /></div>
 
 **Done!**
 

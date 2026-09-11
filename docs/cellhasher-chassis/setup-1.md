@@ -24,7 +24,7 @@ Every Cellhasher has an adjustable power supply unit (PSU) that supports either 
 
 Using the USB cables provided, connect the phones and slide into their slots. Once complete, power the Cellhasher on.
 
-<div align="left"><img src="/img/chassis-setup/charging-station-phones-mounted.jpeg" alt="" /></div>
+<div align="left"><img src="/docs/img/chassis-setup/charging-station-phones-mounted.jpeg" alt="" /></div>
 
 **Done!**
 

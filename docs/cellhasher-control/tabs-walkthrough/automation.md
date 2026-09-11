@@ -7,7 +7,7 @@ description: >-
 
 # Automation
 
-<figure><img src="/img/control-tabs/automation/overview.png" alt="" /><figcaption><p>View of the Automation tab</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/automation/overview.png" alt="" /><figcaption><p>View of the Automation tab</p></figcaption></figure>
 
 ### Overview: A Visual Node-Based Automation
 
@@ -55,9 +55,9 @@ This flow:
 
 This pre-made automation is designed for HMD Vibes, the same model included in _Cellhasher Classic + 20 Phones_ . Because other Android screens may vary slightly in resolution or layout, users may need to tweak tap coordinates for other phone models.
 
-<a href="/files/install-provision-acurastlitehmd-vibe.json">Download: Install-Provision-AcurastLite(HMD-Vibe).json</a>
+<a href="/docs/files/install-provision-acurastlitehmd-vibe.json">Download: Install-Provision-AcurastLite(HMD-Vibe).json</a>
 
-<div><img src="/img/control-tabs/automation/acurast-1.png" alt="" /> <img src="/img/control-tabs/automation/acurast-2.png" alt="" /> <img src="/img/control-tabs/automation/acurast-3.png" alt="" /></div>
+<div><img src="/docs/img/control-tabs/automation/acurast-1.png" alt="" /> <img src="/docs/img/control-tabs/automation/acurast-2.png" alt="" /> <img src="/docs/img/control-tabs/automation/acurast-3.png" alt="" /></div>
 
 ### Flow Loading & Format Support
 

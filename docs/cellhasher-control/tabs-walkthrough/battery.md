@@ -32,7 +32,7 @@ By spoofing the level values you:
 * AC Charging: Enabled (if chassis supplies power)
 :::
 
-<figure><img src="/img/control-tabs/battery/overview.png" alt="" /><figcaption><p>View of the Battery Tab</p></figcaption></figure>
+<figure><img src="/docs/img/control-tabs/battery/overview.png" alt="" /><figcaption><p>View of the Battery Tab</p></figcaption></figure>
 
 ### Quick Actions
 
