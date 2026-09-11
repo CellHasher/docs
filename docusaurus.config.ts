@@ -51,10 +51,7 @@ const config: Config = {
 
   themes: [["docusaurus-plugin-pagefind", {}]],
 
-  plugins: [
-    "docusaurus-plugin-image-zoom", // can also just be 'image-zoom'
-    // ...other plugins
-  ],
+  plugins: ["docusaurus-plugin-image-zoom"],
 
   presets: [
     [
