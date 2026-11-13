@@ -82,7 +82,6 @@ const sidebars: SidebarsConfig = {
         'additional-docs/enabling-usb-and-wireless-debugging',
         'additional-docs/connection-modes-wi-fi-and-ethernet',
         'additional-docs/install-android-adb-fastboot-and-usb-drivers-install',
-        'additional-docs/proxy-and-webrtc-settings',
       ],
     },
   ],
